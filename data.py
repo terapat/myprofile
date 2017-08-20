@@ -1,6 +1,6 @@
 data = {
     'name': 'Terapat Chattrakul',
-    'nickname': 'Toey',
+    'nickname': 'Toeys',
     'image': 'unnamed.png',
     'greeting_msg': 'Hi, there!',
     'about': """
